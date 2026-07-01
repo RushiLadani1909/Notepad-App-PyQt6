@@ -23,15 +23,6 @@ A simple desktop Notepad application developed using **Python** and **PyQt6**. T
 * PyQt6
 
 ---
----
-
-## Run the Application
-
-```bash
-python "Notepad App with PyQt6.py"
-```
-
----
 
 ## How to Use
 
