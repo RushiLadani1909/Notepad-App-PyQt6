@@ -23,19 +23,6 @@ A simple desktop Notepad application developed using **Python** and **PyQt6**. T
 * PyQt6
 
 ---
-
-## Project Structure
-
-```text
-Notepad-App-PyQt6/
-│
-├── Notepad App with PyQt6.py
-├── README.md
-├── requirements.txt
-└── screenshot.png (Optional)
-```
-
----
 ---
 
 ## Run the Application
