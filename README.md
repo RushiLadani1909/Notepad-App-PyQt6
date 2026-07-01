@@ -24,8 +24,6 @@ A simple desktop Notepad application developed using **Python** and **PyQt6**. T
 
 ---
 
----
-
 ## Features Included
 
 * File Management
@@ -56,16 +54,6 @@ A simple desktop Notepad application developed using **Python** and **PyQt6**. T
 * Recent files list
 * Keyboard shortcuts
 * Print support
-
----
-
-## Screenshot
-
-Add a screenshot of the application here.
-
-```text
-screenshot.png
-```
 
 ---
 
