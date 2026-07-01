@@ -36,27 +36,6 @@ Notepad-App-PyQt6/
 ```
 
 ---
-
-## Installation
-
-### Clone the repository
-
-```bash
-git clone https://github.com/YourUsername/Notepad-App-PyQt6.git
-```
-
-### Navigate to the project folder
-
-```bash
-cd Notepad-App-PyQt6
-```
-
-### Install dependencies
-
-```bash
-pip install PyQt6
-```
-
 ---
 
 ## Run the Application
