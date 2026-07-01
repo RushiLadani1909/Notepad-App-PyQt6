@@ -24,23 +24,6 @@ A simple desktop Notepad application developed using **Python** and **PyQt6**. T
 
 ---
 
-## How to Use
-
-1. Launch the application.
-2. Use the **File** menu to:
-
-   * Create a new file
-   * Open an existing file
-   * Save the current file
-   * Save As to create a new file
-3. Use the **Edit** menu to:
-
-   * Undo
-   * Redo
-   * Cut
-   * Copy
-   * Paste
-
 ---
 
 ## Features Included
